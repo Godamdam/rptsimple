@@ -1,0 +1,7 @@
+{
+    "path-intellisense.mappings": {
+        "@":"${workspaceRoot}/src"
+    },
+    "npm-scripts.showStartNotification": false,
+    "npm.packageManager": "npm"
+}
